@@ -95,20 +95,24 @@ python main.py
 1. Selecione a entrada na tabela.
 2. Clique no botão "Deletar".
 
-### Documentação Adicional
-Para mais detalhes sobre o funcionamento do código e as análises realizadas, consulte o arquivo (main.py)  e os scripts adicionais no diretório do projeto.
+
+## Documentação Adicional
+
+Para mais detalhes sobre o funcionamento do código e as análises realizadas, consulte o arquivo `main.py` e os scripts adicionais no diretório do projeto.
 
 ---
+
 ### Licença
+
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ### Como Contribuir
 
 Fique à vontade para contribuir com novas funcionalidades, melhorias de código ou correções de bugs. Sinta-se livre para abrir uma issue ou enviar um pull request.
 
-
 ---
 
 🔗 **Mantenha-se Conectado:**
 
 - [LinkedIn](https://www.linkedin.com/in/larissa-silva-93452911b)
+
