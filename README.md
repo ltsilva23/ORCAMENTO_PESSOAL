@@ -40,28 +40,8 @@ Este projeto é uma aplicação de interface gráfica construída com Tkinter pa
     ```bash
     cd projeto-orcamento-pessoal
     ```
-
-3. Crie um ambiente virtual:
-
-    ```bash
-    python -m venv venv
-    ```
-
-4. Ative o ambiente virtual:
-
-    - No Windows:
-
-        ```bash
-        venv\Scripts\activate
-        ```
-
-    - No MacOS/Linux:
-
-        ```bash
-        source venv/bin/activate
-        ```
-
-5. Instale as dependências:
+    
+3. Instale as dependências:
 
     ```bash
     pip install -r requirements.txt
@@ -73,11 +53,12 @@ Para executar a aplicação, use o seguinte comando:
 
 ```bash
 python main.py
+```
 
 ## Uso
 
 ### Inserir Categorias de Despesas
-1. No campo "Nova categoria ", digite o nome da categoria.
+1. No campo "Nova categoria", digite o nome da categoria.
 2. Clique no botão "Adicionar".
 
 ### Inserir Receitas
@@ -95,18 +76,11 @@ python main.py
 1. Selecione a entrada na tabela.
 2. Clique no botão "Deletar".
 
-
-## Documentação Adicional
-
-Para mais detalhes sobre o funcionamento do código e as análises realizadas, consulte o arquivo `main.py` e os scripts adicionais no diretório do projeto.
-
----
-
-### Licença
+## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-### Como Contribuir
+## Como Contribuir
 
 Fique à vontade para contribuir com novas funcionalidades, melhorias de código ou correções de bugs. Sinta-se livre para abrir uma issue ou enviar um pull request.
 
@@ -115,4 +89,3 @@ Fique à vontade para contribuir com novas funcionalidades, melhorias de código
 🔗 **Mantenha-se Conectado:**
 
 - [LinkedIn](https://www.linkedin.com/in/larissa-silva-93452911b)
-
