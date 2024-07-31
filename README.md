@@ -101,7 +101,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ### Como Contribuir
 
 Fique à vontade para contribuir com novas funcionalidades, melhorias de código ou correções de bugs. Sinta-se livre para abrir uma issue ou enviar um pull request.
-
+---
 🔗 **Mantenha-se Conectado:**
 
 - [LinkedIn](https://www.linkedin.com/in/larissa-silva-93452911b)
