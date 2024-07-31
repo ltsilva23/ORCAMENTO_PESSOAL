@@ -76,9 +76,6 @@ python main.py
 1. Selecione a entrada na tabela.
 2. Clique no botão "Deletar".
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Como Contribuir
 
