@@ -107,6 +107,11 @@ def inserir_categoria_b():
     # Atualizando a lista de categorias
     combo_categoria_despesas['values'] = (categoria)
 
+    mostrar_renda()
+    percentagem()
+    grafico_barra()
+    resumo_total()
+    grafico_pizza()
 
 # Função inserir receitas
 def inserir_receita_b():
@@ -152,7 +157,11 @@ def inserir_despesas_b():
     e_cal_despesas.delete(0, 'end')
     e_valor_despesas.delete(0, 'end')
     
-    
+    mostrar_renda()
+    percentagem()
+    grafico_barra()
+    resumo_total()
+    grafico_pizza()
 
 #Função para deletar dados da tabela informa mensagem de sucesso e de erro 
 def deletar_dados():
@@ -172,6 +181,8 @@ def deletar_dados():
             grafico_barra()
             resumo_total()
             grafico_pizza()
+            mostrar_renda()
+            
         else:
             excluir_gastos([valor])
             messagebox.showinfo('Sucesso', 'Os dados foram excluidos com sucesso')
@@ -181,6 +192,7 @@ def deletar_dados():
             grafico_barra()
             resumo_total()
             grafico_pizza()
+            mostrar_renda()
             
     except IndexError:
         messagebox.showerror('Erro', 'Selecione um dos dados na tabela')
