@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação de interface gráfica construída com Tkinter para gerenciar receitas e despesas pessoais. A aplicação permite inserir e visualizar categorias de despesas, receitas e um resumo financeiro, além de exibir gráficos para facilitar a compreensão dos dados.
 
+![Orçamento Pessoal](img/orcamento.png)
+
 ## Funcionalidades
 
 - Inserir categorias de despesas.
@@ -72,8 +74,6 @@ Para executar a aplicação, use o seguinte comando:
 ```bash
 python main.py
 
-![Orçamento Pessoal](img/orcamento.png)
-
 ## Uso
 
 ### Inserir Categorias de Despesas
@@ -101,3 +101,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ### Como Contribuir
 
 Fique à vontade para contribuir com novas funcionalidades, melhorias de código ou correções de bugs. Sinta-se livre para abrir uma issue ou enviar um pull request.
+
+🔗 **Mantenha-se Conectado:**
+
+- [LinkedIn](https://www.linkedin.com/in/larissa-silva-93452911b)
