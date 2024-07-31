@@ -401,7 +401,7 @@ e_valor_despesas = Entry(frame_operacoes, width=14, justify='left',relief="solid
 e_valor_despesas.place(x=110, y=101)
 
 # Botao Inserir despesas
-img_add_despesas  = Image.open('add.png')
+img_add_despesas  = Image.open('icons/add.png')
 img_add_despesas = img_add_despesas.resize((17,17))
 img_add_despesas = ImageTk.PhotoImage(img_add_despesas)
 
